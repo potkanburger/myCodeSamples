@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Candy Robot</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="adresseServeur">192.168.43.180</string>
+    <string name="adresseServeurB">192.168.43.243</string>
+    <string name="boutonConnect">Connect</string>
+</resources>
