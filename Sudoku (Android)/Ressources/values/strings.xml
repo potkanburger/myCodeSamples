@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sudoku_Durif_Genoux_Hu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="generer">Générer</string>
+</resources>
